@@ -4,14 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/lkjhm/AndroidStudioProjects/MyWay/app/src/main/res/drawable-v24/shape.xml" value="0.155" />
+        <entry key="..\:/Users/lkjhm/AndroidStudioProjects/MyWay/app/src/main/res/drawable-v24/shape_blue.xml" value="0.155" />
         <entry key="..\:/Users/lkjhm/AndroidStudioProjects/MyWay/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.155" />
         <entry key="..\:/Users/lkjhm/AndroidStudioProjects/MyWay/app/src/main/res/drawable/search_border.xml" value="0.155" />
         <entry key="..\:/Users/lkjhm/AndroidStudioProjects/MyWay/app/src/main/res/drawable/shape.xml" value="0.155" />
-        <entry key="..\:/Users/lkjhm/AndroidStudioProjects/MyWay/app/src/main/res/layout/activity_empty_seat.xml" value="0.25" />
+        <entry key="..\:/Users/lkjhm/AndroidStudioProjects/MyWay/app/src/main/res/drawable/shape_blue.xml" value="0.155" />
+        <entry key="..\:/Users/lkjhm/AndroidStudioProjects/MyWay/app/src/main/res/layout/activity_empty_seat.xml" value="0.33" />
         <entry key="..\:/Users/lkjhm/AndroidStudioProjects/MyWay/app/src/main/res/layout/activity_facilities.xml" value="0.2259963768115942" />
         <entry key="..\:/Users/lkjhm/AndroidStudioProjects/MyWay/app/src/main/res/layout/activity_main.xml" value="0.2259963768115942" />
-        <entry key="..\:/Users/lkjhm/AndroidStudioProjects/MyWay/app/src/main/res/layout/activity_qrscan.xml" value="0.22" />
+        <entry key="..\:/Users/lkjhm/AndroidStudioProjects/MyWay/app/src/main/res/layout/activity_qrscan.xml" value="0.25" />
         <entry key="..\:/Users/lkjhm/AndroidStudioProjects/MyWay/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/lkjhm/AndroidStudioProjects/MyWay/app/src/main/res/layout/bottomsheet_seatnum.xml" value="0.25" />
         <entry key="..\:/Users/lkjhm/AndroidStudioProjects/MyWay/app/src/main/res/layout/shape.xml" value="0.2259963768115942" />
         <entry key="..\:/Users/lkjhm/AndroidStudioProjects/MyWay/app/src/main/res/layout/splash.xml" value="0.1" />
         <entry key="..\:/Users/lkjhm/AndroidStudioProjects/MyWay/app/src/main/res/menu/bottom_menu.xml" value="0.2814814814814815" />
